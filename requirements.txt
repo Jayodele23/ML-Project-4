@@ -2,6 +2,7 @@ streamlit
 pandas
 yfinance
 yahoofinancials
+pystan==2.19.1.1
 fbprophet
 plotly
 datetime
