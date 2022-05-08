@@ -1,5 +1,5 @@
 streamlit
-NumPy==1.7
+NumPy
 python-dateutil==2.7.5
 Cython
 pandas
