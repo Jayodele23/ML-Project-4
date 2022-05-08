@@ -1,10 +1,6 @@
 streamlit
-NumPy
-python-dateutil==2.7.5
-Cython==0.22
 pandas
 plotly
-pystan==2.19.1.1
 fbprophet
 yahoofinancials
 yfinance
