@@ -1,6 +1,6 @@
 streamlit
 numpy
-Cython==0.20
+Cython
 pandas
 plotly
 pystan==2.19.1.1
