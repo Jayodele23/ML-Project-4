@@ -2,5 +2,8 @@ streamlit
 pandas
 plotly
 fbprophet
+fbprophet.plot
+distutils.log
 yahoofinancials
 yfinance
+datetime
