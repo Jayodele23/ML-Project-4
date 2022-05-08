@@ -1,0 +1,7 @@
+streamlit
+pandas
+yfinance
+yahoofinancials
+fbprophet
+plotly
+datetime
