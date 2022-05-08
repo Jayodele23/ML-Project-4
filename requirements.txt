@@ -1,7 +1,7 @@
 streamlit
 NumPy==1.7
 python-dateutil==2.7.5
-Cython==0.22
+Cython
 pandas
 plotly
 pystan==2.19.1.1
