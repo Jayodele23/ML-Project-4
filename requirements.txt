@@ -1,6 +1,5 @@
 streamlit
 NumPy==1.7
-python==3.7
 Cython==0.22
 pandas
 plotly
