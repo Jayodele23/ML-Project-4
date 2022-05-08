@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+fbprophet
+yahoofinancials
+yfinance
