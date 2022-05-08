@@ -4,4 +4,4 @@ plotly
 fbprophet
 yahoofinancials
 yfinance
-
+pystan 
