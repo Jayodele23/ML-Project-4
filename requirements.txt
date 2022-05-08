@@ -1,6 +1,9 @@
 streamlit
 pandas
+numpy>=1.15.4
+Cython>=0.22
 plotly
+pystan==2.19.1.1
 fbprophet
 yahoofinancials
 yfinance
