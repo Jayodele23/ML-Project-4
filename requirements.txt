@@ -1,5 +1,6 @@
 streamlit
 NumPy==1.7
+python-dateutil==2.7.5
 Cython==0.22
 pandas
 plotly
